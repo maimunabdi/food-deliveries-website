@@ -4,7 +4,7 @@ This is a responsive and interactive website built using HTML, CSS, and JavaScri
 
 ## 🔗 Live Demo
 
-Check out the live site here: [Live Website]( https://maimunabdi.github.io/food-deliveries-website)
+Check out the live site here: [Live Website]( https://github.com/maimunabdi/food-deliveries-website.git)
 
 ## 🚀 Features
 
