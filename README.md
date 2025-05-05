@@ -20,5 +20,5 @@ Check out the live site here: [Live Website]( https://maimunabdi.github.io/food-
 - CSS
 - JavaScript
 
-## 📁 Folder Structure
+
 
